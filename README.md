@@ -32,18 +32,17 @@ Este projeto foi desenvolvido como parte de uma atividade de sprint focada no co
 - Tratamento de erros em caso de falha na requisição
 - Interface organizada e responsiva
 
----
-
 ## 📂 Estrutura do projeto
+
+```
 projeto
 │
 ├── index.html
 ├── css
-│ └── style.css
+│   └── style.css
 └── js
-└── script.js
-
----
+    └── script.js
+```
 
 ## 🌐 API utilizada
 
